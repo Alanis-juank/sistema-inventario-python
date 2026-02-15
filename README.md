@@ -22,6 +22,6 @@ Aplicación desarrollada en Python utilizando Programación Orientada a Objetos 
 - README.md → Documentación
 
 ## Autor
-Estudiante: (tu nombre)
-Carrera: (tu carrera)
+Estudiante:Alanis Juank 
+Carrera: Tecnologias de la informacion
 Asignatura: Técnicas de Programación
